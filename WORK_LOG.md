@@ -1,9 +1,9 @@
-Name: YOUR NAME HERE
+Name: Isha Gupta 
 
-| Date    |  Time  |                                     Update |
-|:--------|:------:|-------------------------------------------:|
-| April 5 | 9-10pm | I tried to write abstract, efficient code. |
-|         |        |                                            |
+| Date   | Time  |                                                                                                                                                                                                                                                                                                                                                                                                                                                                               Update |
+|:-------|:-----:|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| Feb 24 | class |  In class, Tony and I came up with a tabulation approach: it's a little slow, but I think it would work. The connection between the smaller problem and adding a letter to the sequence you are looking at: you want to find and remove the letter you are adding in one sequence in the other. If you can find this letter, solve the sub-problem (by removing the added letter from both sequences) and add one. If this is bigger than the longest sequence you've found, update. |
+|        |       |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 
 
 To add a new row to the table, click into a cell and then hit shift-enter.
