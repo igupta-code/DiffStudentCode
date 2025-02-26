@@ -36,8 +36,6 @@ public class PlagiarismChecker {
                         break;
                     }
                 }
-
-                // Check previous highest number to make sure that's not bigger + update
             }
         }
         return maxL;
